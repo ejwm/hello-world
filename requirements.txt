@@ -2,3 +2,5 @@ For each new project:
 initiate and activate a new environment 
 store all the dependencies into a file (requirements.txt). 
 Anyone can access the project subdirectory, activate a new environment and install the required dependencies to run the code successfully.
+
+Making edits to this file
